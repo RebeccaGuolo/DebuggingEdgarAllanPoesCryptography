@@ -7,7 +7,7 @@ The purpose is to decipher the cryptogram exploiting the frequency analysis, lik
 - WF.csv: a .csv file created extrapolating the most frequent words - and their frequencies - from the COCA corpus
 - wordFrequency.xlsx: a .xlsx file that is the one you download from www.wordfrequency.info, representing the COCA corpus
   
-#### What you find in the script:  
+#### What you find in the script "Debugging_Edgar_Allan_Poe's_Cryptography.ipynb":  
 Firstly, the script prints the cryptogram of the tale and its length, then it presents the symbols ordered according to its frequency.  
 Secondly, the English letters' frequency at Poe's time is set through the analysis of his tales.
 Thirdly, the frequency of contemporary English letters is established extracting iformation from the COCA corpus.    
