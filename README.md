@@ -12,4 +12,4 @@ Firstly, the script prints the cryptogram of the tale and its length, then it pr
 Secondly, the English letters' frequency at Poe's time is set through the analysis of his tales.
 Thirdly, the frequency of contemporary English letters is established extracting iformation from the COCA corpus.    
 Once that these three frequency analyses are ready, the decryption is carried out in a computational way.  
-Lastly, the decrypted message is re-encrypted, but this time using a more efficient - and modern - encryption technique. 
+Lastly, the decrypted message is re-encrypted, but this time using more efficient - and modern - encryption techniques. 
